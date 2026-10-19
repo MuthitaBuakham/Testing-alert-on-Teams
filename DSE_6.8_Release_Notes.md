@@ -8,3 +8,4 @@ DSE_6.8.66 release notes
 DSE_6.8.67 release notes
 Update DSE 6.8/6.3 release notes to include fixed CVEs
 DSE 6.8.699 Release Notes (#236)
+Update DSE_6.8_Release_Notes_2.md
