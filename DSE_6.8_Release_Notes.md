@@ -13,3 +13,4 @@ Update Release notes for DSE 6.85 and 6.94
 DSE 6.8.688 Release Notes
 DSE 6.8.695 Release Notes
 6.8.695 Release Notes
+DSE 6.8.66 release notes
